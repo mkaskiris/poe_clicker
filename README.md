@@ -19,3 +19,5 @@ To use:
 https://github.com/beerett/poedb
 
 https://github.com/OmegaK2/PyPoE
+
+https://regex101.com/ --> testing regex mod format
