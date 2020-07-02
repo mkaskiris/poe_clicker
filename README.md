@@ -15,3 +15,7 @@ To use:
 
   3. press q again to set item coordinates
 
+
+https://github.com/beerett/poedb
+
+https://github.com/OmegaK2/PyPoE
